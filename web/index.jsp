@@ -103,9 +103,7 @@
                    
                 </tbody>
             </table>
-            
-            
-            <button type="submit" >aceptar</button>
+            <button type="submit">aceptar</button>
         </form>
         <form action="controlador">
         <table border="1">
